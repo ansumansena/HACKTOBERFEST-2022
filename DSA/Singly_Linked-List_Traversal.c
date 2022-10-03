@@ -18,6 +18,8 @@ void TraverseLL(struct node *ptr)
 
 int main()
 {
+    printf("------------Singly Linked-List Traversal------------\n");
+    
     /* Initialize nodes */
     struct node *head;         // define structure pointer
     struct node *second;
