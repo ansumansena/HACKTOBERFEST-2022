@@ -1,3 +1,4 @@
+//factorial by iterative method
 #include <stdio.h>
 int main()
 {
